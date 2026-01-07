@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/customprintedbox.github.io/static/css/main.0bfdf136.css",
-    "main.js": "/customprintedbox.github.io/static/js/main.37e459b7.js",
+    "main.js": "/customprintedbox.github.io/static/js/main.9bc45c25.js",
     "index.html": "/customprintedbox.github.io/index.html",
     "main.0bfdf136.css.map": "/customprintedbox.github.io/static/css/main.0bfdf136.css.map",
-    "main.37e459b7.js.map": "/customprintedbox.github.io/static/js/main.37e459b7.js.map"
+    "main.9bc45c25.js.map": "/customprintedbox.github.io/static/js/main.9bc45c25.js.map"
   },
   "entrypoints": [
     "static/css/main.0bfdf136.css",
-    "static/js/main.37e459b7.js"
+    "static/js/main.9bc45c25.js"
   ]
 }
