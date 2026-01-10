@@ -1,0 +1,32 @@
+.specifications {
+    background-color: var(--color-bg-tertiary);
+    /* Distinct background */
+}
+
+.specs-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 20px;
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.spec-item {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    background-color: var(--color-bg-primary);
+    padding: 20px;
+    border-radius: var(--radius-sm);
+    border: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.check-icon {
+    color: var(--color-accent);
+    font-weight: bold;
+}
+
+.spec-item span {
+    font-weight: 500;
+    color: var(--color-text-primary);
+}
